@@ -1,0 +1,5 @@
+numero_parrafos = ARGV[0].to_i
+numero_parrafos.times do |i|
+    puts "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras condimentum diam eu facilisis rhoncus. Aliquam quis odio et augue imperdiet tincidunt. Phasellus a sem a lectus mollis fermentum eget at felis. Phasellus imperdiet vulputate nisl, a luctus nibh accumsan sit amet. In hac habitasse platea dictumst. Quisque eu tellus vel leo ultrices vehicula. Fusce molestie eget velit ut porta. Sed consectetur quam ac placerat rhoncus. Sed eget facilisis justo, ut sagittis enim. Morbi a sapien porta, porttitor mauris sed, commodo metus. Nullam sagittis viverra lacus, eget accumsan justo mollis quis. Praesent tincidunt ex quis leo posuere, vel sodales enim volutpat. Mauris maximus felis aliquet purus sodales, vitae ornare elit porttitor. Etiam accumsan condimentum dolor non vehicula. Donec ac libero maximus, venenatis sapien et, pellentesque magna. Maecenas enim neque, bibendum id justo sit amet, viverra aliquam ligula."
+end
+    
